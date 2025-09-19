@@ -1,0 +1,15 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab2 nodeJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdalmonaem gamal",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
+}
